@@ -8,9 +8,14 @@
     list-style-type: none;
 }
 
-img {
-    width: 300px;
+.recipe-header {
     text-align: center;
+    width: 700px;
+    margin: auto;
+}
+
+.recipe-header img {
+    width: 300px;
 }
 
 h1 {
