@@ -18,6 +18,26 @@
     width: 300px;
 }
 
+@media screen and (max-width:600px) {
+    .recipe-header {
+        width: 400px;
+    }
+
+    .recipe-header img {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .recipe-header {
+        width: 320px;
+    }
+
+    .recipe-header img {
+        width: 200px;
+    }
+}
+
 h1 {
     font-family: 'Libre Baskerville', serif;
 }
